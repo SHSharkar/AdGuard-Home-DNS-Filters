@@ -1,1 +1,11 @@
-
+# List of Bangladeshi Banks
+@@||bb.org.bd^$important
+@@||sonalibank.com.bd^$important
+@@||jb.com.bd^$important
+@@||agranibank.org^$important
+@@||rupalibank.org^$important
+@@||basicbanklimited.com^$important
+@@||bdbl.com.bd^$important
+@@||krishibank.org.bd^$important
+@@||rakub.org.bd^$important
+@@||pkb.gov.bd^$important
